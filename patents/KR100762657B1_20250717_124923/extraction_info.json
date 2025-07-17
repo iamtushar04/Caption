@@ -1,0 +1,12 @@
+{
+  "patent_number": "KR100762657B1",
+  "extraction_time": "2025-07-17T12:49:50.060509",
+  "images_downloaded": 10,
+  "text_extracted": true,
+  "folders": {
+    "main": "patents\\KR100762657B1_20250717_124923",
+    "images": "patents\\KR100762657B1_20250717_124923\\images",
+    "annotated": "patents\\KR100762657B1_20250717_124923\\annotated",
+    "text": "patents\\KR100762657B1_20250717_124923\\text"
+  }
+}

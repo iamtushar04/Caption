@@ -1,0 +1,12 @@
+{
+  "patent_number": "US20110316664A1",
+  "extraction_time": "2025-07-17T13:05:12.925311",
+  "images_downloaded": 10,
+  "text_extracted": true,
+  "folders": {
+    "main": "patents\\US20110316664A1_20250717_130441",
+    "images": "patents\\US20110316664A1_20250717_130441\\images",
+    "annotated": "patents\\US20110316664A1_20250717_130441\\annotated",
+    "text": "patents\\US20110316664A1_20250717_130441\\text"
+  }
+}

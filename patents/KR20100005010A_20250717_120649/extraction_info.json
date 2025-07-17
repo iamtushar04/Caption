@@ -1,0 +1,12 @@
+{
+  "patent_number": "KR20100005010A",
+  "extraction_time": "2025-07-17T12:07:15.014008",
+  "images_downloaded": 10,
+  "text_extracted": true,
+  "folders": {
+    "main": "patents\\KR20100005010A_20250717_120649",
+    "images": "patents\\KR20100005010A_20250717_120649\\images",
+    "annotated": "patents\\KR20100005010A_20250717_120649\\annotated",
+    "text": "patents\\KR20100005010A_20250717_120649\\text"
+  }
+}

@@ -1,0 +1,1006 @@
+US010098427B2
+(1 2 ) United States Patent
+( 10) Patent No. : US 10 ,0 98 ,4 27 B2
+(4 5 ) Date of Patent: * Oct. 16 , 2018
+Mogil et al.
+(5 2) U. S. CI.
+(5 4 ) SOFT- SIDED INSULATED CONTAINER
+CPC .. . .. . . . . . . . A45C 7 / 0081 ( 2013 .0 1 ); A45C 3/ 001
+WITH INFLATABLE WALL STRUCTURE
+( 2013 .0 1 ); A45C 3/ 0 4 ( 2013 .0 1 ); A45C 11/ 2 0
+( 2013 .0 1 ) ; A45C 13 / 103 (2 013 .0 1 ) ; A45C
+(7 1) Applicant: CALIFORNIA INNOVATIONS INC .,
+13 / 26 (2 013 .0 1 ); B650 81/ 3 89 (2 013. 0 1)
+Toronto (C A )
+(5 8 ) Field of Classification Search
+CPC . . .. . . . . . A45C 7 / 0081; A45C 3 /0 01; A45C 3 /0 4 ;
+(7 2 ) Inventors : Melvin S . Mogil, Toronto (C A ) ; Rick
+A45C 11 /2 0 ; A45C 13 / 103 ; A45C 13 / 26 ;
+Stephens , Chicago , IL (U S ) ; Ryan
+B65D 81 /3 89
+Mather , Boulder , CO (U S )
+USPC
+. .. .. .. . 383 / 2 , 3 , 110 , 97 , 17 , 20
+.. . . . . . .
+See application file for complete search history .
+(7 3 ) Assignee : CALIFORNIA INNOVATIONS INC .
+(C A )
+(5 6 )
+References Cited
+Subject to any disclaimer , the term of this
+( * ) Notice:
+U . S . PATENT DOCUMENTS
+patent is extended or adjusted under 35
+U . S .C . 154 (b ) by 0 days .
+1 , 372 ,8 93 A 3 / 1921 Miller
+2 ,7 70 , 275 A 11/ 1956 Suciu
+This patent is subject to a terminal dis
+3 , 031, 121 A 4 / 1962 Chase
+claimer .
+(C ontinued )
+Appl . No .: 15 /2 03 , 395
+(2 1)
+FOREIGN PATENT DOCUMENTS
+( 22 ) Filed : Jul. 6 , 2016
+2149491 Al 11/ 1996
+CA
+Primary Examiner — Jes F Pascua
+(6 5 )
+Prior Publication Data
+( 74 ) Attorney , Agent, or Firm — Ostrolenk Faber LLP
+US 2016 /0 309864 A1 Oct . 27, 2016
+(5 7 )
+ABSTRACT
+A soft- sided insulated container assembly is made of a
+Related U . S . Application Data
+flexible wall structure that is movable between a collapsed
+position and a deployed position . In one variation of the
+Continuation of application No. 13 /7 82 ,4 89 , filed on
+(6 3 )
+deployed position it resembles a tote -b ag ; in another varia
+Mar. 1 , 2013 , now Pat. No . 9 ,4 08 , 445 .
+tion of folding the deployed position corresponds to a
+generally box - like shape . The container includes a self
+Int. Cl.
+(5 1 )
+inflating wall structure that has an inner layer or skin , an
+B650 30 / 00
+( 2006 .0 1)
+outer layer or skin , and a resilient, open - cell insulating layer
+( 2006 . 01 )
+A45C 7 / 00
+trapped between the two skins . A valve governs the ability
+A45C 3 / 00 ( 2006 .0 1)
+to take in or to expel air . The outer layer may be thicker and
+A45C 3 /0 4
+( 2006 . 01 )
+more robust that the inner layer, the better to resist abrasion
+( 2006 .0 1 )
+A45C 11 / 20
+or punctures . The inner layer may be reflective . There may
+A45C 13 / 10 ( 2006 . 01 )
+be a removable internal liner . That liner may be transparent .
+A45C 13 /2 6
+( 2006 .0 1 )
+20 Claims, 6 Drawing Sheets
+B650 81 / 38
+( 2006 .0 1 )
+10
+20
+30
+28 24
+TORCHILI
+PGO
+DUTER
+30
+102
+|
+NEUESTS SHIRTSTEIN
+TOTT ISST:
+118
+98
+120
+MUINN
+WAVUTLUCANTIKWAXWWWWWWWWWW
+140
+50
+106
+W
+44
+114
+112
+108
+0
+US 10 ,0 98 ,4 27 B2
+Page 2
+References Cited
+(5 6 )
+6 ,0 92 ,6 61 A 7 / 2000 Mogil
+6 , 116 ,0 45 A 9 / 2000 Hodosh
+D435 , 342 S 12/ 2 000 Mogil
+U . S . PATENT DOCUMENTS
+D435 , 968 S 1 /2 001 Mogil
+D436 ,4 42 S 1 /2 001 Mogil
+3 ,3 39 ,8 23 A 9 / 1967 Axel
+6 ,2 34 ,6 77 B1 5 / 2001 Mogil
+6 / 1971 Mattei
+3 ,5 87 , 794 A
+6 ,2 37 ,7 76 B1 5 / 2001 Mogil
+3 ,7 30 , 240 A 5 / 1973 Presnick
+6 , 238 ,0 91 B1 5 /2 001 Mogil
+4 ,0 85 , 785 A
+4 / 1978 Hoot
+6 , 247, 328 B1 6 / 2001 Mogil
+A45C 7 /0 04
+4 ,0 91 , 852 A * 5 / 1978 Jordan
+D452 ,0 75 S 12/ 2001 Mogil
+206 /5 22
+D453 ,6 25 S 2 /2 002 Mogil
+4 , 172 , 152 A 10 / 1979 Carlisle
+6 , 363, 7 39 B1 4 / 2002 Hodosh et al .
+4 ,2 11, 091 A 7 / 1980 Campbell
+6 , 390 ,3 45 B1 5 / 2002 Brown et al.
+4 , 387 , 846 A 6 / 1983 DuCorday
+6 , 439 , 389 B1 8 / 2002 Mogil
+4 ,4 89 ,8 15 A * 12 / 1984 Martinez
+A45C 9 /0 0
+6 ,4 81, 2 39 B2 11 /2 002 Hodosh et al.
+190 / 1
+6 , 513 ,6 61 B1 2 / 2003 Mogil
+4 ,5 09 ,6 45 A *
+4 / 1985 Hotta .. .. . .. . . . .. . .. .
+A45C 11 / 20
+6 ,5 82 , 124 B2 6 / 2003 Mogil
+206 /5 45
+6 ,6 44 ,0 63 B2 11/ 2003 Mogil
+4 ,6 79 ,2 42 A 7 / 1987 Brockhaus
+6 , 821 ,0 19 B2 11/ 2004 Mogil
+4 , 707 , 883 A 11/ 1987 Irani et al.
+7 , 162 , 890 B2 1/ 2007 Mogil et al.
+8/ 1989 Rushing
+A45C 3 /0 0
+4 ,8 56 ,5 70 A *
+. . . . . . . . . . . . . . A42
+J
+7 , 188 ,7 13 B1 * 3/ 2 007 Espar . .. .. . . . . . . . . . . . .. . A45C 7 /0 095
+150 / 103
+190 / 107
+8 / 1992 Mogil
+D328 , 550 S
+7 , 669 ,4 36 B2 3 / 2010 Mogil et al.
+D340 , 387 S
+10 / 1993 Melk
+10 / 1993 Melk
+7 ,6 82 ,0 80 B2 3 / 2010
+D340 ,6 21 S
+7 , 757 ,8 78 B2 7 / 2010 Mogil et al.
+11/ 1993 Melk
+D340 , 840 S
+7 , 841, 207 B2 11/ 2010 Mogil et al.
+9 / 1994 Book
+5 , 346 , 309 A
+10 / 1994 Mogil
+5 ,3 54 ,1 31 A
+8 , 043 , 004 B2 10 /2 011 Mogil
+4 / 1995 Melk
+5 ,4 03 , 095 A
+8 ,0 96 ,4 42 B2 1 /2 012 Ramundi
+2 / 1996 Morris
+5 , 490 , 396 A
+8 ,9 93 ,0 79 B1 | 3 / 2015 Duong
+6 / 1996 Melk
+D371 ,0 52 S
+9 ,4 08 ,4 45 B2 * 8 / 2016 Mogil .. . . . . . . . . . . . . . . . . .. A45C 3 /0 01
+9 / 1996 Melk
+D373 , 514 S
+2003 / 0024960 A1 2/ 2003 Greenstein et al.
+D373 ,5 15 S 9 / 1996 Melk
+2004 / 0035143 A1 2 /2 004 Mogil
+8 / 1997 Mogil
+D382 ,7 71 S
+2005 /0 117817 A1 6 /2 005 Mogil et al.
+8 / 1997 Mogil
+D382, 772 S
+2005 / 0205459 Al 9 /2 005 Mogil et al .
+12 / 1997 Mogil
+D387 , 249 S
+2007 /0 237432 AL 10 /2 007 Mogil
+2 / 1998 Melk
+D391 , 121 S
+2008/ 0 050050 A1 * 2 /2 008 Seecof .. . .. . . . . . A45F 4 /0 2
+D394 ,5 52 S
+5 / 1998 Melk
+383 / 4
+D408 ,2 25 S
+4 / 1999 Hodash
+2008 / 0260303 A1 10 / 2008 de Lesseux et al.
+A45C 7 / 0077
+5 , 904 ,2 30 A * 5 / 1999 Peterson
+. .. . .. .. . .. ..
+2009 /0 095757 AL 4 /2 009 Ramundi
+190 / 107
+2010 /0 116830 A15 / 2010 Mogil et al.
+6 / 1999 Melk
+5 ,9 15 , 580 A
+2010 /0 282763 A1 11/ 2 010 Mogil et al .
+7 / 1999 Hodosh
+5 , 924 , 303 A
+2 / 2000 Mogil 2011 /0 127274 A 6 / 2011 Mogil
+D419 , 770 S
+2 / 2000 Mogil
+2012 /0 243808 A1 * 9 / 2012 de Lesseux . .. . . . . B65D 81/ 3897
+D419 ,8 30 S
+3 / 2000 Mogil
+D421 , 366 S
+383 / 110
+5 /2 000 Hodosh
+6 ,0 67 , 816 A
+* cited by examiner
+5 / 2000 Freese et al .
+6 , 068 ,4 02 A
+US 10 ,0 98, 4 27 B2
+atent
+Sheet 1 of 6
+Oct . 16 , 2018
+20 -
+wwwww
+AN
+32
+ES
+102
+Myrebut
+TRAIN
+UP
+?????
+1403
+201
+. WARRAI WWW
+3
+ITTITILOINNIT
+142
+114
+112 -
+FIG . 1A
+20
+126
+.
+FIG . IB
+US 10 ,0 98 ,4 27 B2
+atent
+Sheet 2 of 6
+Oct . 16 , 2018
+811
+8-01
+HEV IO G
+wwwwwwwwwwwwwww
+w ww
+.. . . .
+LUETUDIITTIMETIDIEL
+go
+ve
+WY
+1111
+SE***RR
+TIITTIMET
+F.IICG
+TIITT
+40
+ULU
+AWMMMM
+N
+WILLK
+UJI
+:
+.. .
+.
+98
+?? 10, 098, 4 27 B2
+atent
+Sheet 3 of 6
+Oct. 16 , 2018
+30 98
+h,M..?
+~ * ~ * ~ - ~ ?????????
+?
+:
+=
+=
+140
+? ??
+?
+???????????????????????????????- - -- - -: ? ?????????????????????????????? ?????: ? (
+*
+""""*
+?.
+-
+?/??? ?
+???
+| 142
+A
+130
+FIG . 1D
+|
+| 102 72 ?
+70 34
+14U -
+30 28 14 :
+??
+??????????????
+")
+11
+} }
+{
+*
+) 68
+138 - .
+??????
+?
+?
+{
+{
+{ {
+{ :
+{
+??
+? .
+. ..
+140
+??
+?
+??? IT
+144
+18
+` 120
+| 108
+?? ??
+_ 136
+:
+:
+142 )
+-
+-
+-
+wh
+=
+=
+=
+=
+S144
+=
+=
+-
+=
+-
+=
+--
+=
+v
+- ?
+94
+o?»-??-?? ? ??
+???
+5 - 142
+130 ?
+116
+FIG . 2A
+US 10 ,0 98, 4 27 B2
+atent
+Oct . 16 , 2018
+Sheet 4 of 6
+140
+108
+144
+142
+120
+-136
+anderen
+w.ww
+TTTT
+mm
+T
+WWW
+TTTTTTTTTTTTTT
+W
+M
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T
+34
+*
+wwwwww
+F.2IBG
+***
+FT
+*
+titthu
+LE
+*
+F3+1+FITT
+1-1$F1I111F242A
+LLLLLLLLLLLLL
+94
+L
+114
+www
+LLLLLLLLL
+e
+68
+28
+W
+90
+.......
+118
+l
+92
+1380
+120
+142
+L
+124
+44
+1.- -
+) *
+US 10, 0 98, 4 27 B2
+atent
+Oct . 16 , 2018
+Sheet 5 of 6
+02 118
+118
+134
+MATLAT
+WWW Vilistele lamst in ute
+LLLLLLLL
+.
+ta
+N120
+130
+Wwwwwwwwww . . .
+ATUTE
+LLIKKUST
+TTTTT
+ABELLAVISER
+108
+112
+H
+98
+bAt
+86
+116
+116
+.
+.
+94
+?????
+90
+??
+114
+??
+???????
+114
+114
+90
+90
+I
+116
+96
+96
+L 100
+100
+106
+2 )
+.
+88
+tonton
+120
+-
+120
+ww
+92
+V
+TTTTTTTT
+TTTTT
+jis
+118
+104
+32 '
+118
+FIG . 3A
+US 10 ,0 98 ,4 27 B2
+atent
+Sheet 6 of 6
+Oct . 16 , 2018
+99
+M
+ww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+33|446 0
+111LLLLLL
+AALALWIEKIRLLTER
+W
+TITETIT
+F.3IDG
+nett
+72
+www
+muuuuuuu
+A1bout
+1
+F.3ICG
+F.3IBG
+.
+70
+unotw
+99
+99
+68
+ww
+Tum
+wwwwwwwww
+30
+wwwwwww
+IITTUIHITTITUTT
+www
+M
+WWWWWWW.WWWWWWWWwwwwwwwwwwwwwwwwwwwwww
+utta
+ENE
+w
+.
+TDEESTTELIE
+Wllliulllitnn
+Wttmhhheuemene
+www
+w
+09
+DS
+WWW
+124
+.
+C
+US 10 , 098 ,4 27 B2
+within . In still another feature , the inflatable wall structure is
+SOFT- S IDED INSULATED CONTAINER
+self - inflating . In another feature , the inflatable wall structure
+WITH INFLATABLE WALL STRUCTURE
+includes an open cell foam captured therewithin . In yet
+another feature the inflatable wall structure is movable to
+CROSS REFERENCE TO RELATED
+5 either of (a ) a tote -s haped container , and (b ) a cubic con
+APPLICATIONS
+tainer. In still another feature , the container has a washable
+liner . In a further feature , the liner is at least one of ( a )
+This is a continuation application of U . S . patent applica
+removable ; and (b ) transparent.
+tion Ser. No. 13 / 782 ,4 89 , filed Mar. 1 , 2013 now U . S . Pat.
+In another feature , the inflatable wall structure , when
+No . 9 ,4 08 ,4 45 in the name of Melvin S . Mogil, Rick
+inflated , forms a peripheral wall defining an insulated cham
+Stephens, and Ryan Mather and entitled SOFT- SIDED 10 ber
+ber in which to place objects . The inflatable will structure
+INSULATED CONTAINER WITH INFLATABLE WALL
+has an outer membrane , an inner membrane , and a layer of
+STRUCTURE , the disclosures ofw hich are incorporated by
+insulation trapped between the outer membrane and the
+reference herein .
+inner membrane . In another feature , the layer of insulation
+includes a resilient open - celled foam . In still another feature ,
+BACKGROUND OF THE INVENTION
+15 the inflatable wall structure includes a valve operable to
+permit at least one of (a ) inflation thereof; and (b ) deflation
+Insulated containers have become popular for carrying thereof. In yet another feature , the outer membrane is thicker
+either articles that may best be served cool, such as bever than the inner membrane and defines a scuff resistant outer
+ages or salads , or warm , such as appetizers , hot dogs , and so surface of the container ; and ( b ) the inner membrane has a
+on . Such containers are frequently used to carry liquids , 20 reflective surface .
+whether hot liquids , such as soup containers , coffee or tea , In still another feature , the container is movable between
+or cold liquids such as beer, soft drinks, or other carbonated a collapsed position and a deployed position . The inflatable
+beverages , juices and milk . Sometimes these containers may wall structure is self - inflating . The inflatable wall structure
+includes an open cell foam captured therewithin . The con
+by used to carry lunches , which may include a sandwich ,
+on 25 tainer has an outlet by which to permit the inflatable wall
+fruit , carrot and celery sticks , a drink , cookies , and so on . 25 tain
+structure to be deflated , and , when the wall structure is
+Portable insulated containers tend to be of two types :
+deflated , the container is movable to a rolled -u p position .
+hard - sided insulated containers or soft - sided insulated con
+The inflatable wall structure , when inflated , forms a periph
+tainers . Hard -s ided portable insulated containers tend to be
+eral wall having an insulated chamber defined therewithin .
+made of moulded plastic , with an inner layer, or wall , and an
+These and other aspects of the invention may be more
+outer layer or wall , with an insulation space (w hich may be 30
+readily understood with the aid of the illustrative Figures
+an air -s pace ) therebetween . Hard -s ided portable insulated
+and detailed description included hereinbelow
+containers are , as might be understood by the name, sub
+stantially rigid . The adjective “ portable ” is sometimes gen
+BRIEF DESCRIPTION OF THE DRAWING ( S )
+erous, as a full cooler capable of carrying 24 cans at 385 mL
+each , plus ice , may have significant weight. Hard - sided 35 These and other aspects of the invention may be more
+coolers , by their nature , may tend to be bulky, and , even readily understood with the aid of the illustrative Figures
+when provided with a handle on top or handles at the ends included herein below , and showing of an example, or
+may tend not to be particularly convenient to carry . A user ' s examples, embodying the various aspects of the invention ,
+perception of the convenience of their portability may provided by way of illustration , but not of limitation of the
+40 present invention , and in which
+diminish with each additional step .
+FIG . la shows a perspective view from the front, to one
+A soft- sided cooler , by contrast, relies on external insu
+side and above , of an example of an embodiment of a
+lated wall structure that is not substantially rigid . In some
+soft - sided insulated container according to an aspect of the
+instances the external insulated wall structure may be fold
+invention herein in a deployed and closed condition ;
+able between collapsed and expanded conditions . The insu
+FIG . 1b shows a perspective view of the soft - sided ,
+lated wall structure may typically include an outside layer of 45
+insulated container of FIG . 1a in a deflated , collapsed , and
+webbing or fabric , an inside layer of webbing or fabric , and
+rolled - up condition ;
+a layer of flexible insulation positioned between the inner
+FIG . 1c shows a perspective view of the container of FIG .
+and outer layers . Soft- sided coolers may sometimes include
+la in tote bag form , filled ;
+substantially rigid liners to assist in permitting the cooer to FIG . 1d is a front view of the container of FIG . 1a ;
+maintain a given shape , or to protect items inside the cooler 50 FIG . 2a shows a perspective view of the container of FIG .
+from being crushed .
+la in a tote -b ag configuration , empty , with the top closure
+Other features and advantages of the present invention member open :
+will become apparent from the following description of the FIG . 2b is a front view of the container of FIG . 2a ;
+invention which refers to the accompanying drawings .
+FIG . 3a shows a developed view of the container of FIG .
+55 2a during manufacture ;
+SUMMARY OF THE INVENTION
+FIG . 36 is an exploded end perspective view of the
+container of FIG . 3a ;
+In an aspect of the invention there is a soft -s ided insulated FIG . 3c is a cross -s ectional view of the container of FIG .
+container having an inflatable wall structure .
+3a ;
+In a feature of that aspect of the invention , the container 60 FIG . 3d is a conceptual view showing the container of
+is movable between a collapsed position and a deployed FIG . 3a being folded during manufacture ;
+position . In another feature , the container has an outlet by
+which to permit the inflatable wall structure to be deflated . DETAILED DESCRIPTION OF EMBODIMENTS
+OF THE INVENTION
+In a further feature , when the wall structure is deflated the
+container is movable to a rolled -u p position . In still another 65
+feature the inflatable wall structure , when inflated , forms a The description that follows, and the embodiments
+peripheral wall having an insulated chamber defined there - described therein , are provided by way of illustration of an
+US 10 , 098 , 427 B2
+example , or examples, of particular embodiments of the foam . A soft -s ided container may still be a soft- sided con
+principles, aspects and features of the present invention . tainer where , as described herein , it may include a substan
+These examples are provided for the purposes of explana - tially rigid liner, or may include one or more battens (w hich
+tion , and not of limitation , of those principles, aspects , and may be of a relatively hard plastic ) concealed within the soft
+features of the invention . In the description , like parts are 5 sided wall structure more generally , or where hard molded
+marked throughout the specification and the drawings with fittings may be used either at a container rim or lip , or to
+the same respective reference numerals . The drawings are provided a base or a mounting point for wheels , but where
+not necessarily to scale and in some instances proportions the outside of the assembly is predominantly of soft - sided
+may have been exaggerated in order more clearly to depict panels . Again , this definition is intended to forestall the U . S .
+10 Patent Office , ( or any other Patent Offices ), from adopting an
+certain features of the invention .
+For the purposes of this description , the insulated con - interpretation of the term " soft - sided ” that diverges from the
+tainers herein may be termed " coolers” , as a convenient ordinary and customary meaning of the term as understood
+shorthand . For the purposes of this description , it may be by persons of ordinary skill in the art in the industry , and as
+that a Cartesian frame of reference may be employed . In explained herein .
+such a frame of reference , the long , or largest dimension of 15 FIGS. la to 1c show a soft- s ided insulated container or
+an object may be considered to extend in the direction of the container assembly , indicated generally as 20 . It has a
+X - axis , the base of the article , where substantially planar, soft - sided , insulated wall structure, identified as 22 , that
+may be considered to extend in an x - y plane , and the height defines a peripheral wall enclosing an internal chamber,
+of the article may be measured in the vertical, or z - direction . generally indicated as 24 . Access to the interior of chamber
+The largest panels of the containers described herein may be 20 24 is controlled be an access governor such as may be
+designated arbitrarily as the front and rear sides , faces , or termed a closure member . Closure member 26 may be a
+portions of the container . Similarly , the closure member , or tracked fastener such as a zipper 28 . The assembly may have
+opening of the bag is arbitrarily designated as being at the handles 30 , 32 by which it may be lifted , and it may include
+top , and the base panel is designated as being at the bottom , a handle cinch or securementm ember, such as pad 34 which ,
+as these terms may be appropriate for the customary orien - 25 in use , wraps around the bails of both handles 30 , 32 to
+tation in which the objects may usually be found , sold , or facilitate their carriage in one hand . A shoulder strap 36 with
+used , notwithstanding that the objects may be picked up and load spreading shoulder pad 38 may also be provided .
+placed on one side or another from time to time at the user ' s External patches , or sheets , or pads 40 , 42 may be added , or
+choice . Other orientations are possible , such as when car - mounted to wall structure 22 , and may include pouches or
+rying a pizza in a flat or generally horizontal orientation , 30 pockets 44 , in which documents or other objects may be
+rather than vertical. It may also be understood that , within received .
+the normal range of temperatures to which human food and As may be noted , container 20 may be deployed as a
+human touch is accustomed , although the term cooler , or generally box -s haped container, as in FIG . la , or as a
+cooler container, or cooler bag , may be used , such insulated tote -b ag shaped container as in FIG . 1c, 2a , or 2b , or it may
+structures may generally also be used to keep food , bever - 35 be collapsed and rolled up as in FIG . 1b .
+ages , or other objects either warm or hot as well as cool, The structure of container 2c may be understood with
+reference to FIGS . 3a , 3b , 3c and 3d . In FIG . 3b , it can be
+cold , or frozen .
+In this specification reference is made to insulated con - seen that the wall structure assembly section indicated as 50
+tainers. The adjective " insulated ” is intended to be given its includes a first membrane or sheet 52, a second membrane
+usual and normal meaning as understood by persons skilled 40 or sheet 54 and a layer of insulation material 56 . First sheet
+in the art . It is not intended to encompass single layers , or 52 may be designated as the inside skin . Sheet 54 may
+skins , of conventional webbing materials, such as NylonTM , similarly be designated the outside skin . In each case , sheets
+woven polyester , canvas , cotton , burlap , leather, paper and 52 and 54 may be made of an air impermeable flexible sheet
+so on , that are not otherwise indicated as having , or being material, be it a rubberized material or some other. In one
+relied upon to have , particular properties as effective thermal 45 embodiment it may be an high denier nylon material that has
+insulators other than in the context of being provided with been impregnated or coated , inside and out, with a thermo
+heat transfer resistant materials or features beyond that of plastic urethane . In one embodiment, inside sheet 52 may
+the ordinary sheetm aterials in and of themselves . Following have a shiny surface , such as a metallic reflective surface ,
+from Phillips V . AWH Corp . , this definition provided in the that faces into chamber. In other embodiments inside may
+specification is intended to supplant any dictionary defini- 50 not be reflective . Outside sheet 54 may be thicker than inside
+tion , and to prevent interpretation in the US Patent Office ( or sheet 52 . It may be roughly one and a half to two and a half
+in any other Patent Office ) that strays from the customary times as thick , and may be made of, or include, an outer
+and ordinary meaning of the term " insulated ” as provided scuff - resistant skin or surface , such as may tend to resist
+punctures.
+herein .
+Similarly , this description may tend to discuss various 55 Insulation material 56 is , or includes , resilient material
+embodiments of soft -s ided wall members , as opposed to with a memory , such that although it may be compressed to
+hard shell or hard - sided containers . In the jargon of the trade , a smaller size, such that the air is squeezed out of it , the
+a soft - sided cooler , or container , is one that does not have a material will tend to return to its previous shape when
+substantially rigid , high density exoskeleton ( typically a released . The tendency to return to the original shape may
+molded shell, e . g . , of ABS or polyethylene , or other common 60 tend to result in a self - inflating ability . Material 56 may be
+types of molded plastic ). Rather , a soft - sided wall may tend an open - cell air- p orous foam . Material 56 may be a material
+to have, for example , an outer skin , a layer of insulation , and other than an open - celled foam . Although it is convenient
+an internal skin , both the internal and external skins being of that a single sheet of insulation material be used , several
+some kind of webbing , be it a woven fabric , a nylon sheet , smaller sheets could also be used .
+or some other membrane . The layer of insulation , which may 65 Sheets 52 and 54 are of generally corresponding extent,
+be a sandwich of various components , is typically a flexible that extent being greater than the extent of insulation mate
+or resilient layer , perhaps of a relatively soft and flexible rial 56 , such that the peripheries of sheets 52 and 54 may be
+US 10 , 098 ,4 27 B2
+sealed together, whether by bonding or welding to form an edges bonded together , again as by bonding or by a thermal
+air impermeable seal. The width of the sealed zone, or process such as welding at left and right hand main seams
+weldment, may be quite substantial, being of the order of 136 and 138 .
+one half of an inch to one inch . To the extent that sheets 52 Upper and lower quick release fittings 140 , 142 may be
+and 54 are generally rectangular . The edges may be identi - 5 mounted at the zipper ends and at the points formed where
+fied as a first end edge 60 , a second , opposed edge 62, a first the bottom gussets fold . In the tote -b ag configuration of
+side edge 64 and a second side edge 66 . Mating left and right FIGS. 1c, 2a and 2b , fittings 140 , 142 are not connected .
+hand guided fastener tracks , i. e . , zipper tracks 68 , 70 of However, when container 20 is used in the more box -s haped
+zipper 28 .
+configuration of FIG . la , the clips or clasps are joined , the
+The inside face defined by sheet 52 may be substantially 10 effect being to fold down ( and up ) the end flaps, much as
+unobstructed , other than for the inclusion of fastening or when folding wrapping paper , the securement of the ends
+securement fittings , such as fabric hook and eye strips 72 tending to hold the package in its box -s haped form . Alter
+( e . g . , Velcro , TM ) mounted by adhesive bonding to the weld - natively, container 20 may also have intermediate level
+ment strips immediately adjacent to first and second , or left quick - release fittings 144 , such as may engage with lower
+and right hand zipper tracks 68 , 70 of zipper 28 . These 15 fittings 142 . In this embodiment the lower portion of con
+securement fittings may be used as releasable securements tainer 20 may have a box shape , while the upper portion
+for mating fittings of like nature of a removable , washable remains like the tote bag shape .
+liner 74 . Liner 74 may be transparent, and may be a seamless in the box - shaped configuration , the first and second
+liner . In other embodiment, liner 74 may be permanently bottom half portions 94 and 96 define a generally flat
+fixed in place , and in still other embodiments container 20 20 bottom ; first and second left hand end panel halves 106 , 108
+may have neither strips 72 nor liner 74 .
+(w hich are joined at left hand main seam 136 ) form the left
+Considering again FIG . 3a , weldments 78 are also made hand end panel; first and second right hand end panel halves
+at various locations at which assembly 50 is intended to be 110 , 112 (w hich are joined at right hand main seam 138 ).
+foldable . The various folds permit assembly 50 to be posi The front and rear (o r first and second ) main side panels are
+tioned in the tote bag configuration of FIGS. 1c , 2a , and 26 ; 25 defined by panel portions 98 and 100 respectively ; the top
+and also in the box - shaped configuration of FIG . 1a . There wall is defined by first and second upper panel portions 102 ,
+are two longitudinal folds 80 , 82 that divide assembly 50 104 joined by zipper 28 in a generally flat panel. In this
+into left and right hand margins and a central portion . There configuration the top corner panel gusset 120 folds under
+are lateral folds , proceeding outwardly from the main cen - gusset 118 , such that a triangular central point is formed at
+terline fold 84 , bottom main face fold 86 , and top marginal 30 which fitting 140 is mounted . Similarly , each gusset 116
+fold 88 . There are also diagonal lower and upper corner folds folds under its associate gusset 114 , forming a central point
+90 and 92 , respectively . Assembly 50 is thus divided into at which fitting 142 is mounted , the whole point then being
+first and second bottom half portions 94 , 96 ; first and second , pulled to lie upwardly , adjacent to the respective end wall.
+or front and rear, main panel portions 98 , 100 ; first and In the tote -b ag configuration , all of the portions to one
+second upper panel portions 102 , 104 , first and second , left 35 side of main central fold 84 form one side of a tote pouch ,
+and right hand end panel halves 106 , 108 , 110 and 112 . while all of the portions to the other side form the other side
+There are also inner and outer bottom folding gusset por - of the tote . As the pouch is filled , the sides bulge accord
+tions 114 , 116 , and first and second top corner folding gusset ingly .
+portions 118 , 120 .
+Although container 20 has been shown and described as
+A valve , or valve assembly 124 may be welded in place 40 having a single communicating space into which air may be
+along one of the side margins of assembly 50 , as indicated . introduced or expelled , and thus only a single valve , the
+Valve assembly 124 is a governor that controls , i. e ., blocks apparatus could have more than one valve such as an inlet
+or permits , flow of air into or out of assembly 50 . When valve and an outlet valve . Alternatively it could have more
+rolled up , as in FIG . 1b , valve assembly 124 is open to allow than one valve that is both an inlet and an outlet valve to
+air to be expelled during the collapsing and rolling up , and 45 allow faster or easier inflation and deflation . In another
+closed thereafter to keep air out. When rolled up , container embodiment, the compressible substance may merely be
+20 may be retained in the rolled condition by a strap 126 , vented , or portions of the external skin may “ breathe” , in
+such as may have mating hook - and -e ye fabric fastener either case without the use of a valve . It is not necessary that
+portions . When the strap is released , valve assembly 124 is all sides of the container assembly be inflatable wall panels .
+opened , and the resiliency of the open celled foam material 50 For example , it may be desired that the bottom panel of the
+tends to spread inner and outer sheets 42 and 44 away from apparatus ( corresponding to items 94 and 96 ) such as may
+each other increasing the volume captured between them rest on sharp objects on the ground , and such as may be
+and , consequently drawing air into that space .
+especially prone to damage or abuse , may be made of a
+External shear panels , doublers , or pads, or mountings non - inflating panel, or panels , such as substantially solid
+130 , 132 are attached to the main front and rear panel 55 UHMW polymer . Alternatively , too , it may be that only a
+portions 98 , 100 respectively, and function as load distrib subset of panels is inflatable , such as main side panel
+uting anchors of handles 30 , 32 . That is , the ends of the portions 98 and 100 . It that case , each of those panels may
+straps of handles 30 , 32 may be attached , as by sewing or be separately inflatable , or they may be in fluid communi
+other means to mountings 130 , 132 , which may themselves cation . In one embodiment, container 20 is buoyant, such
+be attached to portions 98 , 100 . Attachment is by non - 60 that if it falls in the water it will float even when rolled - up .
+puncturing means , such as by adhesive bonding or by a In another embodiment, given the buoyancy of wall struc
+thermal bonding process such as welding or vulcanizing . ture 22 , container 20 will float when deployed and empty .
+Auxiliary compartment members , such as pockets or The principles of the present invention are not limited to
+pouches 134 may be attached externally to mountings 130 , these specific examples which are given by way of illustra
+65 tion . It is possible to make other embodiments that employ
+132 .
+When the external fittings have been mounted to assembly the principles of the invention and that fall within its spirit
+50 , it is then folded , as suggested by FIG . 3d , and the side and scope of the invention . Since changes in and or additions
+US 10 , 098 ,4 27 B2
+to the above -d escribed embodiments may be made without pre -d efined fold locations formed in said inflatable wall
+structure, at which said inflatable wall structure is
+departing from the nature , spirit or scope of the invention ,
+folded ;
+the invention is not to be limited to those details, but only by
+weldments made in said inflatable wall structure form said
+the appended claims.
+pre -d efined fold locations ;
+5
+in a first folded position of said inflatable wall structure at
+What is claimed is :
+said pre - defined fold locations said inflatable wall
+1. An inflatable soft -s ided insulated container, compris
+structure and said insulated chamber have a six -s ided
+ing :
+box shape;
+an inflatable wall structure having an inside skin ; an
+10 in a second folded position of said inflatable wall structure
+outside skin ; and a layer of foam insulation captured
+at said pre- d efined fold locations said inflatable wall
+between said inside skin and said outside skin ;
+structure and said insulated chamber have a tote bag
+said wall structure having a pre - defined fold location at
+shape that is different from said six -s ided box shape ;
+which said wall structure is foldable into panels defin
+said inflatable wall structure having a closure governing
+ing an enclosure having an insulated chamber defined 15 access to said insulated chamber;
+therewithin ;
+said inflatable wall structure having releasable secure
+said wall structure having a closure governing access to ments mounted at opposite ends of said closure ;
+said securements being configured and operable to retain
+said insulated chamber;
+said wall structure having releasable securements
+said inflatable wall structure in said six - sided box
+20 shape .
+mounted at opposite ends of said closure ;
+said securements being configured and operable to retain 9 . The inflatable , soft - sided insulated container of claim 8
+wherein said inside skin and said outside skin are welded
+said enclosure in a six - sided box shape ;
+said enclosure has a bottom wall , a top wall , a front wall , together about their respective peripheries .
+a back wall , a first end wall and a second end wall ;
+10 . The inflatable soft - sided insulated container of claim
+said wall structure has a first edge , and a second edge , said 25 9 wherein said container has an inlet to permit said inflatable
+first edge being opposed to said second edge ;
+wall structure to be self- inflating .
+said first and second edges having respective opposed 11 . The inflatable , soft - sided insulated container of claim
+halves of a zipper mounted thereto , said zipper defining 8 wherein ,
+said enclosure has a bottom wall , a top wall , a front wall ,
+said closure ; and
+when said wall structure is folded into said six - sided box 30 a back wall, a first end wall and a second end wall ;
+shape , flaps extend from said top wall and from said said wall structure has a first edge , and a second edge , said
+bottom wall, said flaps having respective tips; and said
+first edge being opposed to said second edge ;
+securements tie said respective tips of said flaps of said said first and second edges having respective opposed
+halves of a zipper mounted thereto , said zipper defining
+top wall and said bottom wall together.
+2 . The inflatable , soft -s ided insulated container of claim 1 35 said closure ; and
+said top wall , said bottom wall, said first end wall and said
+wherein :
+second end wall are centrally foldable to permit said
+when said wall structure is folded into said six - sided box
+shape , said zipper runs centrally along said top wall ; wall structure to be formed into said tote -b ag shape .
+said flaps are triangularly folded flaps ;
+12 . The inflatable , soft - sided insulated container of claim
+said zipper terminates at said respective tips of said flaps ; 40 8 wherein , when deflated , said wall structure is formed into
+a first of said securements is mounted at said tip of one a roll .
+of said folded flaps, and a second of said securements 13 . The soft - sided insulated container of claim 8 wherein
+is mounted at said tip of a second of said folded flaps . said foam insulation layer includes a resilient open - cell
+3. The inflatable , soft -s ided insulated container of claim 1 foam .
+wherein weldments made in said wall structure form said 45 14 . An inflatable soft- s ided insulated container, compris
+ing:
+pre - defined fold locations.
+4 . The inflatable, soft -s ided insulated container of claim 1 an inflatable wall structure having an inside skin ; an
+outside skin ; and a layer of foam insulation captured
+wherein handles are mounted to each of said front wall and
+said back wall .
+between said inside skin and said outside skin ;
+5 . The inflatable , soft - sided insulated container of claim 4 50 said inflatable wall structure having weldments at pre
+wherein each of said front and back walls is reinforced by a defined fold locations at which said wall structure is
+folded ;
+doubler, and said handles are mounted to said doublers
+said inflatable wall structure being bonded together to
+respectively .
+6 . The inflatable , soft - sided insulated container of claim 1
+define an insulated chamber therewithin ;
+wherein said wall structure is selectively inflatable and 55 said inflatable wall structure having a closure governing
+deflatable , and when deflated , said wall structure is formed
+access to said insulated chamber ;
+said container has a collapsed , deflated , position ;
+into a roll .
+7 . The inflatable soft -s ided insulated container of claim 1 said container has a first deployed position in which folds
+wherein said container has an outlet by which to permit said
+at said pre - determined fold locations form said inflat
+60 able wall structure and said insulated chamber into a
+inflatable wall structure to be deflated .
+8 . An inflatable soft- sided insulated container, compris deployed , inflated , six - sided box shape ;
+said container has a second deployed position in which
+ing:
+an inflatable wall structure having an inside skin ; an said folds at said pre -d etermined fold locations form
+outside skin ; and a layer of foam insulation captured
+said inflatable wall structure and said insulated cham
+between said inside skin and said outside skin ; 65 ber into a deployed , inflated , tote bag shape, said
+said inflatable wall structure being bonded together to
+second deployed position being different from said first
+deployed position and being an alternate thereto ;
+form an insulated chamber therewithin ;
+US 10 , 098 , 427 B2
+10
+said inflatable wall structure having releasable secure said wall structure having a pre - defined fold location at
+ments mounted at opposite ends of said closure ; and
+which said wall structure is foldable into panels defin
+said securements being configured and operable to
+ing an enclosure having an insulated chamber defined
+retain said inflatable wall structure in said six - sided
+therewithin ;
+box shape.
+5 said wall structure having a closure governing access to
+15 . The inflatable soft - sided insulated container of claim
+said insulated chamber ;
+14 wherein said container has an inlet to permit said inflat
+said wall structure having releasable securements
+able wall structure to be self -i nflating .
+mounted at opposite ends of said closure ;
+16 . The soft -s ided insulated container of claim 14 wherein
+said securements being configured and operable to retain
+said inflatable wall structure includes a valve operable to 10
+said enclosure in a six - sided box shape ;
+permit at least one of (a ) inflation thereof; and ( b ) deflation
+said inside skin and said outside skin are welded together
+thereof.
+about respective peripheries thereof;
+17 . The inflatable , soft- sided insulated container of claim
+weldments made in said wall structure form said pre
+14 wherein said inside skin and said outside skin are welded
+defined fold locations ;
+together about their respective peripheries; said wall struc - 15
+said inflatable wall structure includes a resilient open - cell
+ture is selectively inflatable and deflatable ; and , when
+foam , is self - inflating, and has an outlet by which to
+deflated , said wall structure is formable into a roll.
+permit said inflatable wall structure to be deflated ;
+18 . The inflatable , soft - sided insulated container of claim
+said wall structure has a first edge, and a second edge , said
+14 wherein :
+said enclosure has a bottom wall , a top wall , a front wall , 20 first edge being opposed to said second edge ;
+a back wall , a first end wall and a second end wall ; said first and second edges having respective opposed
+said wall structure has a first edge , and a second edge, said halves of a zipper mounted thereto , said zipper defining
+first edge being opposed to said second edge ;
+said closure ;
+said first and second edges having respective opposed said container is configurable between a collapsed ,
+halves of a zipper mounted thereto , said zipper defining 25 deflated , position ; a deployed , inflated configuration
+said closure ; and
+corresponding to said six - sided box shape ; and a
+said top wall, said bottom wall , said first end wall and said
+deployed , inflated , tote bag configuration ;
+second end wall are centrally foldable to permit said
+said top wall , said bottom wall , said first end wall and said
+wall structure to be formed into a tote - bag configura
+second end wall are centrally foldable to permit said
+tion .
+30
+wall structure to be moved into said tote - bag configu
+19 . The inflatable , soft - sided insulated container of claim
+ration ;
+14 wherein :
+in said six - sided box shape , said enclosure has a bottom
+said enclosure has a bottom wall , a top wall , a front wall ,
+wall , a top wall, a front wall , a back wall, a first end
+a back wall , a first end wall and a second end wall ;
+wall and a second end wall ;
+said wall structure has a first edge , and a second edge , said 35
+when said wall structure is folded into said six -s ided box
+first edge being opposed to said second edge ;
+shape , flaps extend from said top wall and said bottom
+said first and second edges mate to define said closure ;
+wall , and said securements tie respective tips of said
+and
+flaps of said top wall and said bottom wall together ;
+when said wall structure is folded into said six -s ided box
+when said wall structure is folded into said six - sided box
+shape, flaps extend from said top wall and from said 40
+shape , said zipper runs centrally along said top wall ;
+bottom wall ; and said securements tie said respective
+and said flaps are triangularly folded flaps ; and
+tips of said flaps of said top wall and said bottom wall
+said zipper terminates at tips of said triangularly folded
+together.
+flaps ; a first of said securements is mounted at a tip of
+20 . An inflatable soft -s ided insulated container, compris
+one of said folded flaps, and a second of said secure
+ing :
+45
+ments is mounted at a tip of a second of said folded
+an inflatable wall structure having an inside skin ; an
+flaps.
+outside skin ; and a layer of foam insulation captured
+between said inside skin and said outside skin ;
