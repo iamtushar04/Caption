@@ -1,0 +1,12 @@
+{
+  "patent_number": "CN201965567U",
+  "extraction_time": "2025-07-18T17:52:17.070200",
+  "images_downloaded": 10,
+  "text_extracted": true,
+  "folders": {
+    "main": "patents\\CN201965567U_20250718_175146",
+    "images": "patents\\CN201965567U_20250718_175146\\images",
+    "annotated": "patents\\CN201965567U_20250718_175146\\annotated",
+    "text": "patents\\CN201965567U_20250718_175146\\text"
+  }
+}

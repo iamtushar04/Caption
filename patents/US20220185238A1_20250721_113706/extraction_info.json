@@ -1,0 +1,12 @@
+{
+  "patent_number": "US20220185238A1",
+  "extraction_time": "2025-07-21T11:37:40.032005",
+  "images_downloaded": 10,
+  "text_extracted": true,
+  "folders": {
+    "main": "patents\\US20220185238A1_20250721_113706",
+    "images": "patents\\US20220185238A1_20250721_113706\\images",
+    "annotated": "patents\\US20220185238A1_20250721_113706\\annotated",
+    "text": "patents\\US20220185238A1_20250721_113706\\text"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "patent_number": "US12122473B2",
+  "extraction_time": "2025-07-18T17:36:51.099701",
+  "images_downloaded": 10,
+  "text_extracted": true,
+  "folders": {
+    "main": "patents\\US12122473B2_20250718_173613",
+    "images": "patents\\US12122473B2_20250718_173613\\images",
+    "annotated": "patents\\US12122473B2_20250718_173613\\annotated",
+    "text": "patents\\US12122473B2_20250718_173613\\text"
+  }
+}

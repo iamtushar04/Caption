@@ -46,6 +46,6 @@ def run_ocr_and_draw_boxes(image_path, output_dir):
     print(f"✅ Saved to: {out_path}")
 
 if __name__ == "__main__":
-    image_path = r"C:\Users\Anushka Verma\OneDrive\Pictures\Screenshots\Screenshot 2025-07-09 120301.png"
-    output_dir = r"E:\PyCharm\PycharmProjects\Caption\output"
+    image_path = r"image_path"
+    output_dir = r"output_dir_path"
     run_ocr_and_draw_boxes(image_path, output_dir)

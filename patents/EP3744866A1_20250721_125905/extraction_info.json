@@ -1,0 +1,12 @@
+{
+  "patent_number": "EP3744866A1",
+  "extraction_time": "2025-07-21T12:59:33.685397",
+  "images_downloaded": 0,
+  "text_extracted": false,
+  "folders": {
+    "main": "patents\\EP3744866A1_20250721_125905",
+    "images": "patents\\EP3744866A1_20250721_125905\\images",
+    "annotated": "patents\\EP3744866A1_20250721_125905\\annotated",
+    "text": "patents\\EP3744866A1_20250721_125905\\text"
+  }
+}

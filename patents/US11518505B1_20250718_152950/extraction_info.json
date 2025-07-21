@@ -1,0 +1,12 @@
+{
+  "patent_number": "US11518505B1",
+  "extraction_time": "2025-07-18T15:30:15.757569",
+  "images_downloaded": 10,
+  "text_extracted": true,
+  "folders": {
+    "main": "patents\\US11518505B1_20250718_152950",
+    "images": "patents\\US11518505B1_20250718_152950\\images",
+    "annotated": "patents\\US11518505B1_20250718_152950\\annotated",
+    "text": "patents\\US11518505B1_20250718_152950\\text"
+  }
+}

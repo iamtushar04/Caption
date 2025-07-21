@@ -1,0 +1,12 @@
+{
+  "patent_number": "US8905816B2",
+  "extraction_time": "2025-07-21T11:10:44.273545",
+  "images_downloaded": 8,
+  "text_extracted": true,
+  "folders": {
+    "main": "patents\\US8905816B2_20250721_111010",
+    "images": "patents\\US8905816B2_20250721_111010\\images",
+    "annotated": "patents\\US8905816B2_20250721_111010\\annotated",
+    "text": "patents\\US8905816B2_20250721_111010\\text"
+  }
+}

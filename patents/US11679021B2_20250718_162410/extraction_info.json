@@ -1,0 +1,12 @@
+{
+  "patent_number": "US11679021B2",
+  "extraction_time": "2025-07-18T16:24:42.332622",
+  "images_downloaded": 10,
+  "text_extracted": true,
+  "folders": {
+    "main": "patents\\US11679021B2_20250718_162410",
+    "images": "patents\\US11679021B2_20250718_162410\\images",
+    "annotated": "patents\\US11679021B2_20250718_162410\\annotated",
+    "text": "patents\\US11679021B2_20250718_162410\\text"
+  }
+}

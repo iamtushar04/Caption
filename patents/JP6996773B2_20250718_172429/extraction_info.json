@@ -1,0 +1,12 @@
+{
+  "patent_number": "JP6996773B2",
+  "extraction_time": "2025-07-18T17:24:59.001343",
+  "images_downloaded": 10,
+  "text_extracted": true,
+  "folders": {
+    "main": "patents\\JP6996773B2_20250718_172429",
+    "images": "patents\\JP6996773B2_20250718_172429\\images",
+    "annotated": "patents\\JP6996773B2_20250718_172429\\annotated",
+    "text": "patents\\JP6996773B2_20250718_172429\\text"
+  }
+}

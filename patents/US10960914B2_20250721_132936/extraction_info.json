@@ -1,0 +1,12 @@
+{
+  "patent_number": "US10960914B2",
+  "extraction_time": "2025-07-21T13:30:08.254517",
+  "images_downloaded": 10,
+  "text_extracted": true,
+  "folders": {
+    "main": "patents\\US10960914B2_20250721_132936",
+    "images": "patents\\US10960914B2_20250721_132936\\images",
+    "annotated": "patents\\US10960914B2_20250721_132936\\annotated",
+    "text": "patents\\US10960914B2_20250721_132936\\text"
+  }
+}
