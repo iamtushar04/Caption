@@ -58,9 +58,9 @@ def annotate_image_with_labels(image_path, output_dir, pad=100, number_to_object
                     object_name,
                     (x, y),
                     fontFace=cv2.FONT_HERSHEY_SIMPLEX,
-                    fontScale=2.5,
+                    fontScale=1.5,
                     color=(255, 0, 0),
-                    thickness=1,
+                    thickness=2,
                     lineType=cv2.LINE_AA
                 )
 
